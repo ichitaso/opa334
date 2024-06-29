@@ -1,0 +1,16 @@
+Author: ichitaso
+Maintainer: ichitaso
+Name: opa334
+Package: com.ichitaso.opa334
+Pre-Depends: firmware (>= 14.0)
+Depends: mobilesubstrate
+Section: Tweaks
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: SpringBoard tweaks / always thanks Opa334
+Homepage: https://ichitaso.com
+Depiction: https://cydia.ichitaso.com/depiction/opa334.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/opa334.json
+dev: ichitaso
+Tag: purpose::extension, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17
+Icon: https://pbs.twimg.com/profile_images/1798706447758553088/zhkyGQas_400x400.jpg
