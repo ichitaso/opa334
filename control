@@ -5,7 +5,7 @@ Package: com.ichitaso.opa334
 Pre-Depends: firmware (>= 14.0)
 Depends: mobilesubstrate
 Section: Tweaks
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: SpringBoard tweaks / always thanks Opa334
 Homepage: https://ichitaso.com
